@@ -5,5 +5,5 @@ html, body {
 .wrapper{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(to right bottom, #1f8f7c, #66ccbb);
+    background-image: linear-gradient(to right bottom, #1f8f7c, #0fb9b1);
 }
